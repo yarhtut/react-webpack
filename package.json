@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "axios": "^0.9.1",
+    "react-addons-css-transition-group": "^0.14.7",
     "react-router": "^2.0.0-rc5"
   }
 }
